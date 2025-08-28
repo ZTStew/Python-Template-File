@@ -34,4 +34,4 @@ if args.test:
   log.critical("Test Running")
 
 
-log.critical("Program Terminated")
+log.critical("### ### ### ^ Program Terminated ^ ### ### ###")
